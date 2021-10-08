@@ -11,7 +11,9 @@ environment:
 
 dependencies:
   floor_annotation:
-    path: ../floor_annotation/
+    git:
+      url: https://github.com/tuuzed/floor.git
+      path: floor_annotation
   flutter:
     sdk: flutter
   meta: ^1.7.0
