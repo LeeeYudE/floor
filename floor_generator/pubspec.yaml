@@ -19,6 +19,7 @@ dependencies:
     git:
       url: https://github.com/LeeeYudE/floor.git
       path: floor_annotation
+      ref: f_sqlcipher
   meta: ^1.7.0
   source_gen: ^1.1.0
   strings: ^0.2.1
