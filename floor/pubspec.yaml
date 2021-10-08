@@ -12,7 +12,7 @@ environment:
 dependencies:
   floor_annotation:
     git:
-      url: https://github.com/tuuzed/floor.git
+      url: https://github.com/LeeeYudE/floor.git
       path: floor_annotation
   flutter:
     sdk: flutter
